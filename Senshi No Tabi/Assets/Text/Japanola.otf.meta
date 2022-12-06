@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6f7c36b34dba1fe43ad9acff1607166c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Japanola
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 73167996009b92749919b5386b8824b5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
